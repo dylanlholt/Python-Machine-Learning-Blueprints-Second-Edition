@@ -1,3 +1,7 @@
+# Extended Challenge - SPAs per Chapter's ML App Projects
+
+I intend to build a Single Page Application (SPA) in the MEVN stack for each chapter's app projects towards proofing different analytics design patterns (in OSS). This will serve to build templates to populate a larger OSS analytics design system and expediete future application development.
+
 # Python Machine Learning Blueprints - Second Edition
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning-blueprints-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788994170 "><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10153_Newcover.png" alt="Python Machine Learning Blueprints - Second Edition" height="256px" align="right"></a>
